@@ -12,3 +12,4 @@ list3 = [list1, list2]
 print("公司名：{0[0]}，网址：{0[1]}".format(list1))
 print("公司名：{0[0]}，网址：{0[1]}".format(list2))
 print("公司名：{0[0][0]}".format(list3))
+
