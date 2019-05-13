@@ -15,4 +15,4 @@ def hanoi(n, x, y, z):
 
 n = 20
 hanoi(n, 'X', 'Y', 'Z')
-print('总共需要{}步。'.format(i))  # i = 2 ** n - 1
+print("总共需要{}步。".format(i))  # i = 2 ** n - 1
